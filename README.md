@@ -8,6 +8,6 @@ You can categorize and prioritize your tasks, mark them as finished, and conveni
 
 You can also sort or filter your task list to focus on pending or finished tasks, which will help you keep organized and productive.
 
-![image](https://github.com/user-attachments/assets/fcc10a46-b39c-40f4-8e82-875af88c2ed2) ![image](https://github.com/user-attachments/assets/3a58d888-9299-4f71-b3b4-1ebd877e4c20)
+![image](https://github.com/user-attachments/assets/fcc10a46-b39c-40f4-8e82-875af88c2ed2)
 
 
